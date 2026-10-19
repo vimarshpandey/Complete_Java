@@ -1,7 +1,5 @@
 package com.revision.java;
 
-import javax.sql.rowset.JoinRowSet;
-
 public class Array {
 
 	public static void main(String[] args) {
